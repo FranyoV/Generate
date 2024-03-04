@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "0",
+    "Subject": "Basic message",
+    "Body": "<p>Hello {Recipient},</p><p>we are not able to provide further information at the moment. Please wait until our college contacts you</p><p>Best,</p><p>Our company.</p><p>&nbsp;</p>"
+  },
+  {   
+    "Id": "1",
+    "Subject": "Meeting scheduling",
+    "Body": "<p>Hello {Recipient},</p><p>we will be glad to see you in our office in {Address.City} at {Address.Street}.&nbsp;</p><p>Looking forward to meeting you!</p><p>Best,</p><p>Our company.</p><p>&nbsp;</p>"
+  },
+  {
+    "Id": "2",
+    "Subject": "Personal information query",
+    "Body": "<p>Hello {Recipient},</p><p>you can reach {Name} by email at {Email} or by phone at {PhoneNumber}.</p><p>Best,</p><p>Our company</p><p>&nbsp;</p>"
+  }
+]
